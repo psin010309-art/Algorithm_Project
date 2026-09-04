@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="BattleShip/BattleShip.vcxproj" Id="f97612b9-bc89-4acc-8ea0-04bfbc86b6a9" />
+  <Project Path="CraftEngine/CraftEngine.vcxproj" Id="b3b3d964-3aa9-4647-bb17-56d145c7e785" />
+  <Project Path="SoundSystem/SoundSystem.vcxproj" Id="756cf89e-67dd-486f-a98a-4e9ee20364c8" />
+</Solution>
